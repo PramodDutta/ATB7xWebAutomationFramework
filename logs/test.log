@@ -5,3 +5,14 @@
 2024-11-16 11:52:57 INFO  TestVWOLogin_POM - Opening the URL
 2024-11-16 11:53:02 INFO  TestVWOLogin_POM - Verifying the Username is theYour email, password, IP address or location did not match
 2024-11-16 12:03:08 INFO  TestVWOLogin_POM - Starting the Testcases Page Factory
+2024-11-17 10:28:46 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-17 10:28:46 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-17 10:28:51 INFO  TestVWOLogin_POM_Retry - Verifying the Username is theYour email, password, IP address or location did not match
+2024-11-17 10:28:53 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-17 10:28:53 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-17 10:28:58 INFO  TestVWOLogin_POM_Retry - Verifying the Username is theYour email, password, IP address or location did not match
+2024-11-17 10:29:00 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-17 10:29:00 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-17 10:29:05 INFO  TestVWOLogin_POM_Retry - Verifying the Username is theYour email, password, IP address or location did not match
+2024-11-17 10:29:07 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-17 10:29:07 INFO  TestVWOLogin_POM_Retry - Opening the URL

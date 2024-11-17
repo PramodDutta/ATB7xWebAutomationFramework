@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <groups>
+        <run>
+            <include name="smoke"/>
+        </run>
+    </groups>
+    <test verbose="2" thread-count="2" parallel="methods" name="ATB7xWebAutomationFramework">
+        <parameter name="url" value="https://qa.com"></parameter>
+        <parameter name="username" value="admin"></parameter>
+        <parameter name="password" value="password123"></parameter>
+        <classes>
+            <class name="com.thetestingacademy.tests.vwoTests.TestVWOLogin_POM">
+            </class>
+        </classes>
+    </test>
+</suite>
